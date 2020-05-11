@@ -5,7 +5,8 @@ import smtplib
 from email.mime.text import MIMEText
 username = "security@chinalife.cn"
 password = "***"
-_to = "notify@chinalife.cn"
+_to = "114.247.91.201"
+_toPriv = "36.112.11.10"
 
 # email
 msg = MIMEText("")
